@@ -1,4 +1,6 @@
 //byte reversing
+//This operation is often used when the endianness of a piece of data needs to be swapped, 
+
 module top_module( 
     input [31:0] in,
     output [31:0] out );//
