@@ -14,6 +14,7 @@ This repository contains my Verilog HDL practice problems and digital design mod
 - Xilinx Vivado
 - Icarus Verilog
 - GTKWave
+- GitHub
 
 ## Repository Structure
 
